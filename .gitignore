@@ -1,0 +1,9 @@
+sim_build/
+__pycache__/
+*.pyc
+*.vcd
+*.fst
+results.xml
+.cache/
+oss-cad-suite/
+*.egg-info/
